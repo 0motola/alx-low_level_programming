@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-*main- prints numbers 0-9 and letters between a and f
+*main- prints a random number and states if it is poositive, negative or zero.
 *
 *Return: always 0 (success)
 */
@@ -26,3 +26,4 @@ int main(void)
 		printf("%d is negative\n", n);
 	}
 	return (0);
+}
