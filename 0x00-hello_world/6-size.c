@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
-*main - prints size of various data types on the computer it is compiled on
+/**
+*main-prints size of various data types on the computer it is compiled on
 *
 *Return: always 0
 */
